@@ -1,0 +1,37 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.attribution{
+  margin-top: 100px;
+}
+
+body{
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+
+.innerRect{
+  background-color: hsl(0, 0%, 100%);
+  width: 230px;
+  height:400px;
+  margin: 0 auto 0 auto;
+  border-radius: 20px;
+  margin-top: 130px
+}
+
+img{
+  width: 210px;
+  height:auto;
+  border-radius: 20px;
+  margin-top: 10px
+}
+
+.grey{
+  color: hsl(220, 15%, 55%);
+}
+
+p{
+  position: relative;
+  margin-left: 9px;
+  margin-right: 9px;
+  font-family: 'Inter', sans-serif;
+}
